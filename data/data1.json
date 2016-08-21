@@ -1,0 +1,30 @@
+﻿{
+  "code": "ACK",
+  "data": [
+    {
+      "course_id": "1",
+      "date": "2016-08-16",
+      "begin_class": 3,
+      "over_class": 4
+    },
+    {
+      "course_id": "2",
+      "date": "2016-08-21",
+      "begin_class": 1,
+      "over_class": 2
+    },
+    {
+      "course_id": "3",
+      "date": "2016-08-21",
+      "begin_class": 4,
+      "over_class": 6
+    },
+    {
+      "course_id": "4",
+      "date": "2016-08-20",
+      "begin_class": 7,
+      "over_class": 8
+    }
+  ],
+  "msg": ""
+}
